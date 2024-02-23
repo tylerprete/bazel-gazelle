@@ -15,6 +15,7 @@ go_library(
         "fix.go",
         "fix-update.go",
         "gazelle.go",
+	"langs.go",
         "metaresolver.go",
         "print.go",
         "profiler.go",
